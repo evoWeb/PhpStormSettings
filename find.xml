@@ -2,9 +2,7 @@
   <component name="FindSettings">
     <option name="customScope" value="File '/home/www/mfc/agria/htdocs/typo3conf/ext/mfc_agria/Classes/Controller/ImportController.php'" />
     <option name="defaultScopeName" value="File '/home/www/mfc/agria/htdocs/typo3conf/ext/mfc_agria/Classes/Controller/ImportController.php'" />
-    <option name="localRegularExpressions" value="true" />
     <option name="showResultsInSeparateView" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SHOW_RESULTS_IN_SEPARATE_VIEW" value="true" />
     <option name="SEARCH_SCOPE" value="File '/home/www/mfc/agria/htdocs/typo3conf/ext/mfc_agria/Classes/Controller/ImportController.php'" />
     <recentFileMasks>
