@@ -1,0 +1,251 @@
+<application>
+  <component name="AppInspectionProfilesVisibleTreeState">
+    <entry key="Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>Spelling</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpCSValidationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+    <entry key="TYPO3">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>PHP</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PhpCSValidationInspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="CodeStyleSettingsManager">
+    <option name="PER_PROJECT_SETTINGS">
+      <value>
+        <XML>
+          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
+        </XML>
+        <codeStyleSettings language="PHP">
+          <indentOptions>
+            <option name="USE_TAB_CHARACTER" value="true" />
+          </indentOptions>
+        </codeStyleSettings>
+      </value>
+    </option>
+    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
+  </component>
+  <component name="CvsApplicationLevelConfiguration">
+    <option name="EXT_CONFIGURATION">
+      <value>
+        <option name="CVS_RSH" value="ssh" />
+        <option name="PRIVATE_KEY_FILE" value="" />
+        <option name="ADDITIONAL_PARAMETERS" value="" />
+        <option name="USE_INTERNAL_SSH_IMPLEMENTATION" value="false" />
+      </value>
+    </option>
+    <option name="SSH_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="LOCAL_CONFIGURATION">
+      <value>
+        <option name="PATH_TO_CVS_CLIENT" value="cvs" />
+      </value>
+    </option>
+    <option name="PROXY_SETTINGS">
+      <value>
+        <option name="USE_PROXY" value="false" />
+        <option name="PROXY_HOST" value="" />
+        <option name="PROXY_PORT" value="8080" />
+        <option name="TYPE" value="0" />
+        <option name="LOGIN" value="" />
+        <option name="PASSWORD" value="" />
+      </value>
+    </option>
+    <option name="SSH_FOR_EXT_CONFIGURATION">
+      <value SSH_TYPE="SSH1, SSH2">
+        <option name="USE_PPK" value="false" />
+        <option name="PATH_TO_PPK" value="" />
+      </value>
+    </option>
+    <option name="PATH_TO_PASSWORD_FILE" value="$userdir/.cvspass" />
+    <option name="TIMEOUT" value="10" />
+    <option name="MAKE_CHECKED_OUT_FILES_READONLY" value="false" />
+    <option name="CHECKOUT_PRUNE_EMPTY_DIRECTORIES" value="true" />
+    <option name="CHECKOUT_KEYWORD_SUBSTITUTION" />
+    <option name="SHOW_RESTORE_DIRECTORIES_CONFIRMATION" value="true" />
+    <option name="ENCODING" value="Default" />
+    <option name="USE_GZIP" value="false" />
+    <option name="DO_OUTPUT" value="false" />
+    <option name="SEND_ENVIRONMENT_VARIABLES_TO_SERVER" value="false" />
+    <option name="SHOW_PATH" value="true" />
+  </component>
+  <component name="ErrorReportConfigurable">
+    <option name="ITN_LOGIN" value="garbast" />
+    <option name="ITN_PASSWORD_CRYPT" value="cCFiRlI1NnhZcm45RkhaQk15YWZ0IUJLYWFBNkpwITI=" />
+    <option name="KEEP_ITN_PASSWORD" value="true" />
+    <option name="EMAIL" value="" />
+  </component>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://dtd.evoweb.de/t3locallang.dtd" location="/home/www/config/t3locallang.dtd" />
+    <resource url="http://typo3.org/ns/TYPO3/Fluid/ViewHelpers" location="/home/www/config/fluid-master.xsd" />
+    <resource url="http://typo3.org/schemas/xliff" location="/home/www/config/xliff-core-1.2-strict.xsd" />
+    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.WebIde100/system/extResources/2889bd79_svg11.dtd" />
+  </component>
+  <component name="PhpRefactoringSettings">
+    <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />
+    <option name="EXTRACT_METHOD_DEFAULT_VISIBILITY" value="protected" />
+    <option name="EXTRACT_FIELD_DEFAULT_VISIBILITY" value="protected" />
+  </component>
+  <component name="SvnApplicationSettings">
+    <option name="myCheckoutURLs">
+      <list>
+        <option value="https://svn.typo-live.web-factory.de/projects/mfc-technik/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/hoermann/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/wolfcraft/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/bauwelt/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ambrunnen-typo3/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/pfm" />
+        <option value="https://svn.typo-live.web-factory.de/customers/heimwerker" />
+        <option value="https://svn.typo-live.web-factory.de/customers/fischer-pos" />
+        <option value="https://svn.typo-live.web-factory.de/customers/westfalia-typo3" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ista" />
+        <option value="https://svn.typo-live.web-factory.de/customers/kaldewei/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/dm-mmx" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ecolevel-buehler/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/walther-werke/" />
+        <option value="https://svn.typo-live.web-factory.de/projects/mfc_henkelpos" />
+        <option value="https://svn.typo-live.web-factory.de/customers/agria/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ecolab" />
+        <option value="https://svn.typo-live.web-factory.de/customers/aralpos/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/henkel-kleb" />
+      </list>
+    </option>
+    <option name="myTypedURLs">
+      <list>
+        <option value="https://svn.typo-live.web-factory.de/projects/mfc-technik/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/bauwelt/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ambrunnen-typo3/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/pfm" />
+        <option value="https://svn.typo-live.web-factory.de/customers/heimwerker" />
+        <option value="https://svn.typo-live.web-factory.de/customers/fischer-pos" />
+        <option value="https://svn.typo-live.web-factory.de/customers/westfalia-typo3" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ista" />
+        <option value="https://svn.typo-live.web-factory.de/customers/kaldewei/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/dm-mmx" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ecolevel-buehler/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/walther-werke/" />
+        <option value="https://svn.typo3.org/TYPO3v4/Extensions/commerce" />
+        <option value="https://svn.typo-live.web-factory.de/projects/mfc_henkelpos" />
+        <option value="https://svn.typo-live.web-factory.de/projects/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/aralpos" />
+        <option value="https://svn.typo-live.web-factory.de/customers/agria/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/ecolab" />
+        <option value="https://svn.typo-live.web-factory.de/customers/aralpos/" />
+        <option value="https://svn.typo-live.web-factory.de/customers/henkel-kleb" />
+      </list>
+    </option>
+    <option name="mySvnCommandLine" value="svn-en" />
+  </component>
+  <component name="SvnBranchMapperManager">
+    <option name="myMapping">
+      <map>
+        <entry key="https://svn.typo-live.web-factory.de/customers/pfm/trunk">
+          <value>
+            <set>
+              <option value="/home/www/mfc/pfm/htdocs" />
+            </set>
+          </value>
+        </entry>
+        <entry key="https://svn.typo-live.web-factory.de/projects/mfc_externals/trunk/TYPO3_extensions/commerce/branches/62055a">
+          <value>
+            <set>
+              <option value="/home/www/mfc/pfm/htdocs/typo3conf/ext/commerce" />
+            </set>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="SystemNotifications">
+    <option name="NOTIFICATIONS">
+      <set>
+        <option value="Find Usages" />
+        <option value="VCS Commit" />
+      </set>
+    </option>
+  </component>
+  <component name="VcsApplicationSettings" PATCH_STORAGE_LOCATION="$USER_HOME$/Dokumente/Patchs">
+    <option name="PATCH_STORAGE_LOCATION" value="$USER_HOME$/Dokumente/Patchs" />
+  </component>
+  <component name="com.intellij.ide.fileTemplates.impl.FileTemplateManagerImpl">
+    <recent_templates>
+      <option name="RECENT_TEMPLATES">
+        <value>
+          <list size="0" />
+        </value>
+      </option>
+    </recent_templates>
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerExImpl">
+    <resource url="http://dtd.evoweb.de/t3locallang.dtd" location="/home/www/config/t3locallang.dtd" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+  <component name="com.intellij.javaee.ExternalResourceManagerImpl">
+    <resource url="http://typo3.org/ns/TYPO3/Fluid/ViewHelpers" location="/home/www/config/fluid-master.xsd" />
+    <ignored-resource url="http://relaxng.org/ns/compatibility/annotations/1.0" />
+    <ignored-resource url="urn:idea:xslt-plugin#extensions" />
+    <ignored-resource url="http://www.w3.org/1998/Math/MathML" />
+    <ignored-resource url="http://exslt.org/dates-and-times" />
+    <ignored-resource url="http://exslt.org/math" />
+    <ignored-resource url="http://exslt.org/dynamic" />
+    <ignored-resource url="http://exslt.org/common" />
+    <ignored-resource url="http://exslt.org/sets" />
+    <ignored-resource url="http://exslt.org/strings" />
+    <ignored-resource url="http://www.w3.org/2000/svg" />
+  </component>
+</application>

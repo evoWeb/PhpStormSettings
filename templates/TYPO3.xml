@@ -1,0 +1,28 @@
+<templateSet group="TYPO3">
+  <template name="ll" value="&lt;label index=&quot;$KEY$&quot;&gt;$LABEL$&lt;/label&gt;" description="Translation label" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+  <template name="ts" value="'$TIMESTAMP$'" description="Timestamp" toReformat="false" toShortenFQNames="true">
+    <variable name="TIMESTAMP" expression="timestamp()" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+      <option name="PHP Comment" value="false" />
+      <option name="PHP String Literal" value="false" />
+    </context>
+  </template>
+  <template name="tu" value="&lt;trans-unit id=&quot;$KEY$&quot; xml:space=&quot;preserve&quot;&gt;&#10;&#9;&lt;source&gt;$LABEL$&lt;/source&gt;&#10;&lt;/trans-unit&gt;" toReformat="false" toShortenFQNames="true">
+    <variable name="KEY" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="LABEL" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="XSL_TEXT" value="true" />
+      <option name="XML" value="true" />
+      <option name="XML_TEXT" value="true" />
+    </context>
+  </template>
+</templateSet>
