@@ -1,0 +1,25 @@
+<application>
+  <component name="FileTypeManager" version="16">
+    <extensionMap>
+      <mapping ext="tmpl" type="HTML" />
+      <mapping ext="sxw" type="Native" />
+      <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="README" type="PLAIN_TEXT" />
+      <mapping pattern="DEV" type="PLAIN_TEXT" />
+      <mapping pattern="1" type="PLAIN_TEXT" />
+      <mapping pattern="mfc_productimport_ERRobj" type="PLAIN_TEXT" />
+      <mapping pattern="ChangeLog" type="PLAIN_TEXT" />
+      <mapping pattern="Credits" type="PLAIN_TEXT" />
+      <mapping pattern="live_export_snapshot_markerfile" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
+      <mapping ext="csv" type="PLAIN_TEXT" />
+      <mapping ext="svn" type="PLAIN_TEXT" />
+      <mapping ext="orig" type="PLAIN_TEXT" />
+      <mapping ext="thml" type="PLAIN_TEXT" />
+      <removed_mapping ext="ts" type="TypeScript" />
+      <mapping ext="ts" type="TypoScript File" />
+      <mapping ext="svg" type="XML" />
+      <mapping ext="xlf" type="XML" />
+    </extensionMap>
+  </component>
+</application>

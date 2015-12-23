@@ -1,0 +1,7 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://typo3.org/ns/TYPO3/Fluid/ViewHelpers" location="/home/www/config/fluid-7.6.xsd" />
+    <resource url="http://www.evoweb.de/ns/SfRegister/ViewHelpers" location="/home/www/config/sf_register.xsd" />
+    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.WebIde100/system/extResources/2889bd79_svg11.dtd" />
+  </component>
+</application>
