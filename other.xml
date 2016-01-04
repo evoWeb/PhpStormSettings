@@ -180,7 +180,7 @@
         <option value="https://svn.typo-live.web-factory.de/customers/henkel-kleb" />
       </list>
     </option>
-    <option name="mySvnCommandLine" value="svn-en" />
+    <option name="mySvnCommandLine" value="/usr/bin/svn" />
   </component>
   <component name="SvnBranchMapperManager">
     <option name="myMapping">
