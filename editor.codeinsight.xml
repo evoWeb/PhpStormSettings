@@ -3,7 +3,9 @@
     <option name="COLLAPSE_METHODS" value="true" />
     <option name="COLLAPSE_DOC_COMMENTS" value="true" />
   </component>
-  <component name="DaemonCodeAnalyzerSettings" profile="Project Default" />
+  <component name="DaemonCodeAnalyzerSettings" profile="Project Default">
+    <option name="SHOW_METHOD_SEPARATORS" value="true" />
+  </component>
   <component name="PhpCodeFoldingSettings">
     <option name="COLLAPSE_FUNCTION_BODY" value="true" />
     <option name="COLLAPSE_METHOD_BODY" value="true" />
