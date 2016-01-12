@@ -1,7 +1,7 @@
 <application>
   <component name="UISettings">
     <option name="FONT_FACE" value="Ubuntu Light" />
-    <option name="FONT_SIZE" value="13" />
+    <option name="FONT_SIZE" value="20" />
     <option name="EDITOR_TAB_LIMIT" value="30" />
     <option name="HIDE_TOOL_STRIPES" value="false" />
     <option name="SCROLL_TAB_LAYOUT_IN_EDITOR" value="false" />
