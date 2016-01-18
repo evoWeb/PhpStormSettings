@@ -1,5 +1,5 @@
 <application>
-  <component name="FileTypeManager" version="16">
+  <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
     <extensionMap>
       <mapping ext="sxw" type="Native" />
@@ -12,7 +12,6 @@
       <removed_mapping ext="ts" type="TypeScript" />
       <mapping ext="ts" type="TypoScript File" />
       <mapping ext="t3s" type="TypoScript File" />
-      <mapping ext="svg" type="XML" />
       <mapping ext="xlf" type="XML" />
     </extensionMap>
   </component>
