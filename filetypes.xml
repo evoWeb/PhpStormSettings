@@ -5,15 +5,15 @@
       <mapping ext="sxw" type="Native" />
       <mapping ext="phps" type="PHP" />
       <mapping pattern="temp" type="PLAIN_TEXT" />
+      <mapping pattern="live_export_snapshot_markerfile" type="PLAIN_TEXT" />
+      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping pattern="README" type="PLAIN_TEXT" />
       <mapping pattern="DEV" type="PLAIN_TEXT" />
       <mapping pattern="Changelog" type="PLAIN_TEXT" />
       <mapping pattern="1" type="PLAIN_TEXT" />
-      <mapping pattern="mfc_productimport_ERRobj" type="PLAIN_TEXT" />
       <mapping pattern="ChangeLog" type="PLAIN_TEXT" />
+      <mapping pattern="mfc_productimport_ERRobj" type="PLAIN_TEXT" />
       <mapping pattern="Credits" type="PLAIN_TEXT" />
-      <mapping pattern="live_export_snapshot_markerfile" type="PLAIN_TEXT" />
-      <mapping pattern="ENABLE_INSTALL_TOOL" type="PLAIN_TEXT" />
       <mapping ext="csv" type="PLAIN_TEXT" />
       <mapping ext="svn" type="PLAIN_TEXT" />
       <mapping ext="tmpl" type="PLAIN_TEXT" />
