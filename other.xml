@@ -52,21 +52,6 @@
       </profile-state>
     </entry>
   </component>
-  <component name="CodeStyleSettingsManager">
-    <option name="PER_PROJECT_SETTINGS">
-      <value>
-        <XML>
-          <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
-        </XML>
-        <codeStyleSettings language="PHP">
-          <indentOptions>
-            <option name="USE_TAB_CHARACTER" value="true" />
-          </indentOptions>
-        </codeStyleSettings>
-      </value>
-    </option>
-    <option name="USE_PER_PROJECT_SETTINGS" value="true" />
-  </component>
   <component name="CvsApplicationLevelConfiguration">
     <option name="EXT_CONFIGURATION">
       <value>
@@ -120,12 +105,6 @@
     <option name="ITN_PASSWORD_CRYPT" value="cCFiRlI1NnhZcm45RkhaQk15YWZ0IUJLYWFBNkpwITI=" />
     <option name="KEEP_ITN_PASSWORD" value="true" />
     <option name="EMAIL" value="" />
-  </component>
-  <component name="ExternalResourceManagerImpl">
-    <resource url="http://dtd.evoweb.de/t3locallang.dtd" location="/home/www/config/t3locallang.dtd" />
-    <resource url="http://typo3.org/ns/TYPO3/Fluid/ViewHelpers" location="/home/www/config/fluid-master.xsd" />
-    <resource url="http://typo3.org/schemas/xliff" location="/home/www/config/xliff-core-1.2-strict.xsd" />
-    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.WebIde100/system/extResources/2889bd79_svg11.dtd" />
   </component>
   <component name="PhpRefactoringSettings">
     <option name="RENAME_SEARCH_IN_COMMENTS_FOR_METHOD" value="true" />

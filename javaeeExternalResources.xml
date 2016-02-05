@@ -1,0 +1,8 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://dtd.evoweb.de/t3locallang.dtd" location="/home/www/config/t3locallang.dtd" />
+    <resource url="http://typo3.org/ns/TYPO3/Fluid/ViewHelpers" location="/home/www/config/fluid-master.xsd" />
+    <resource url="http://typo3.org/schemas/xliff" location="/home/www/config/xliff-core-1.2-strict.xsd" />
+    <resource url="http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" location="$USER_HOME$/.WebIde100/system/extResources/2889bd79_svg11.dtd" />
+  </component>
+</application>
